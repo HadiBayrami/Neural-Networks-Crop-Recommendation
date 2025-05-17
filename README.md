@@ -4,15 +4,18 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![Agriculture AI Banner](https://example.com/agriculture-ai-banner.jpg)
 
-A neural network-based system for recommending optimal crops based on soil and environmental parameters.
+A deep learning model that recommends the optimal crop based on soil and weather conditions.
 
 ## Features
 
 - Preprocesses agricultural data (N, P, K levels, temperature, humidity, etc.)
-- Implements a multi-layer perceptron for classification
+- Neural network with dropout layers to prevent overfitting
 - Achieves 96% accuracy on test data
 - Provides easy-to-use prediction interface
+ - Comprehensive model evaluation metrics
+- Clean, modular codebase
 
 ## Installation
 
@@ -20,3 +23,8 @@ A neural network-based system for recommending optimal crops based on soil and e
 ```bash
 git clone https://github.com/HadiBayrami/crop-recommendation-nn.git
 cd crop-recommendation-nn
+
+
+```markdown
+# Crop Recommendation System with Neural Network
+
