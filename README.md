@@ -25,6 +25,4 @@ git clone https://github.com/HadiBayrami/crop-recommendation-nn.git
 cd crop-recommendation-nn
 
 
-```markdown
-# Crop Recommendation System with Neural Network
 
